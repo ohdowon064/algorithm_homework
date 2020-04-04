@@ -1,1 +1,1 @@
-print("hello world 안녕 디지몬친구들!")
+print('git hub clone test')
